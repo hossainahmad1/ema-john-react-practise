@@ -1,0 +1,22 @@
+.header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.header img {
+    margin-left: 40px;
+}
+
+
+.header a {
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 30px;
+}
+
+.header a:hover {
+    color: salmon;
+}
